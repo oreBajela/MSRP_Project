@@ -2,6 +2,8 @@
 
 *O Bajela, Harrison Fisher, Laura D Lewis*
 
+<img width="1267" height="952" alt="Screenshot 2026-03-30 at 6 27 44 PM" src="https://github.com/user-attachments/assets/7a45b6a0-bf41-45e2-b020-9816cd06ccd2" />
+
 Dopamine is a flexible neuromodulator that is involved in a diverse array of cognitive and behavioral functions such as mood, motivation, movement, learning, and arousal. Dopamine can be excitatory or inhibitory, depending on which of its two main receptor families it acts through (Costa & Schoenbaum, 2022). Dopamine historically was not considered one of the major neurotransmitter systems governing transitions between sleep and wakefulness; however, new evidence suggests that it may have a meaningful role in regulating arousal (Eban-Rothschild et al., 2018). 
            
 Growing evidence suggests an important role in arousal control. Stimulants that target the dopaminergic system promote wakefulness, and sleep disturbances are common in conditions with disrupted dopamine function, such as Parkinson’s disease (Bollu & Sahota, 2017). Animal studies show striatal dopamine fluctuates across states, peaking in wakefulness and declining during REM sleep (Dong et al., 2019), though species differences limit translation to humans. Human imaging studies remain sparse and methodologically limited, with early SPECT findings (Lee et al., 2007) and recent work in animals (Eban-Rothschild et al., 2018) pointing to complex, projection specific dopaminergic contributions. Yet how dopamine and related neuromodulators dynamically modulate natural arousal transitions in healthy humans is largely unexplored.
