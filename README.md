@@ -23,3 +23,4 @@ Linear mixed-effects modeling confirmed that arousal type and signal type both s
         
         This work has several important implications. Clinically, understanding how dopaminergic and noradrenergic systems contribute to arousal regulation could inform new diagnostic or therapeutic approaches for conditions such as Parkinson’s disease, narcolepsy, or depression, in which both sleep and neuromodulation are disrupted. This work also advances the interpretation of the BOLD signal by integrating receptor distributions, helping to disentangle contributions of vascular, neural, and neuromodulatory processes. More broadly, this project demonstrates the feasibility of receptor-informed fMRI for studying neuromodulation in humans, offering a methodological framework that can be applied to other cognitive domains beyond arousal.
 
+
