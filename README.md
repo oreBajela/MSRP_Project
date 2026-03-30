@@ -1,6 +1,6 @@
-Investigating how dopamine-sensitive signals vary with brain arousal states using Receptor-Informed fMRI  
+** Investigating neuroreceptor-weighted fMRI signals across natural arousal state transitions **
 
-O Bajela, Harrison Fisher, Laura D Lewis
+* O Bajela, Harrison Fisher, Laura D Lewis *
 
        Dopamine is a flexible neuromodulator that is involved in a diverse array of cognitive and behavioral functions such as mood, motivation, movement, learning, and arousal. Dopamine can be excitatory or inhibitory, depending on which of its two main receptor families it acts through (Costa & Schoenbaum, 2022). Dopamine historically was not considered one of the major neurotransmitter systems governing transitions between sleep and wakefulness; however, new evidence suggests that it may have a meaningful role in regulating arousal (Eban-Rothschild et al., 2018). 
            
